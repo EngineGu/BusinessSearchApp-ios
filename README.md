@@ -4,4 +4,4 @@ Based on Yelp API, the project create an IOS app  which can search businesses, g
 
 # the Demo Video
 
-[demo video](./demo-video.mpeg)
+https://www.youtube.com/watch?v=OnEqsYDOCU0
