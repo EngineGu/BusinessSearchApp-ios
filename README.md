@@ -1,6 +1,6 @@
 # Overview
 
-Based on Yelp API, the project create an IOS app  which can search businesses, get businesses' information and make reservations.
+Based on Yelp API, the project create an iOS app  which can search businesses, get businesses' information and make reservations.
 
 # the Demo Video
 
